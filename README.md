@@ -6,14 +6,14 @@ Apasionado por los datos, la programación, la estadística y la inteligencia ar
 
 ---
 
-## 🧠 Sobre mí
+## 📌 Sobre mí
 
 - 📊 **Analista de datos** con enfoque en inteligencia artificial y estadística aplicada.
 - 🔍 Interesado en la **investigación continua** como motor de crecimiento profesional.
 - 🎓 Comprometido con la **difusión del conocimiento**, ya sea enseñando o colaborando en proyectos de interés común.
 - 🌟 Mi sueño: convertirme en un **Data Scientist de renombre**, contribuyendo con soluciones innovadoras.
 
-> “La ciencia de datos no es solo código ni correr modelos: es curiosidad, investigación, pensamiento crítico, lógico y estructurado. Es entender el problema, formular preguntas relevantes, explorar patrones ocultos y transformar datos en decisiones con impacto.”
+> *“La ciencia de datos no es solo código ni correr modelos: es curiosidad, investigación, pensamiento crítico, lógico y estructurado. Es entender el problema, formular preguntas relevantes, explorar patrones ocultos y transformar datos en decisiones con impacto.”*
 
 ---
 
@@ -50,3 +50,8 @@ Apasionado por los datos, la programación, la estadística y la inteligencia ar
 - Dashboards interactivos en Power BI.
 - Colaboraciones abiertas para compartir ideas y aprender juntos.
 
+---
+
+<p align="center">
+  <sub>Gracias por visitar mi perfil. ¡Conectemos y creemos soluciones con impacto!</sub>
+</p>
