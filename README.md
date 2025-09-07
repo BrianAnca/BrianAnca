@@ -34,10 +34,13 @@ Apasionado por los datos, la programación, la estadística y la inteligencia ar
 ## 📫 Contacto
 
 <p align="left">
-  <a href="mailto:briankcc7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hermes-brian-anca-ccopa-927565340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  briankcc7@gmail.com  
+  <br>
+  <a href="https://www.linkedin.com/in/hermes-brian-anca-ccopa-927565340">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 ## 🚀 ¿Qué encontrarás en mi perfil?
