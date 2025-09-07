@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Hermes Brian Anca Ccopa</h1>
 
 <p align="center">
-Apasionado por los datos,la programación, la estadística y la inteligencia artificial. Me especializo en el análisis de datos y en la construcción de modelos de aprendizaje que aporten valor en contextos reales. Disfruto investigando temas aplicados en ciencia de datos y compartiendo conocimiento a través de la enseñanza y la colaboración.
+Apasionado por los datos, la programación, la estadística y la inteligencia artificial. Me especializo en el análisis de datos y en la construcción de modelos de aprendizaje que aporten valor en contextos reales. Disfruto investigando temas aplicados en ciencia de datos y compartiendo conocimiento a través de la enseñanza y la colaboración.
 </p>
 
 ---
