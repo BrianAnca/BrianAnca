@@ -47,4 +47,3 @@ Apasionado por los datos, la estadística y la inteligencia artificial. Me espec
 - Dashboards interactivos en Power BI.
 - Colaboraciones abiertas para compartir ideas y aprender juntos.
 
-"Actualización de README de perfil"
